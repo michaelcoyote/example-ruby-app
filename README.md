@@ -1,4 +1,6 @@
 # Shopify App Examples
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fmichaelcoyote%2Fexample-ruby-app.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fmichaelcoyote%2Fexample-ruby-app?ref=badge_shield)
+
 
 This repository is home to the code examples highlighted in various [Shopify API tutorials](https://help.shopify.com/api/tutorials). They are designed solely for the purpose of introducing new developers to the Shopify API. The example apps are written in [Sinatra](https://github.com/sinatra/sinatra), but the concepts presented will also apply to developers building applications in other languages such as Python, Node.js and PHP.
 
@@ -37,3 +39,7 @@ This tutorial series uses [ngrok](https://ngrok.com/) to create a secure tunnel 
 bundle install
 ruby 01\ Getting\ Started/app.rb
 ```
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fmichaelcoyote%2Fexample-ruby-app.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fmichaelcoyote%2Fexample-ruby-app?ref=badge_large)
